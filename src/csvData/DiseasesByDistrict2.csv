@@ -1,0 +1,299 @@
+Location,Diseases
+Anantapur,"Anthrax, Theileriosis, Haemorrhagic septicaemia, Babesiosis, Bluetongue"
+East Godavari,"Lumpy Skin Diseases, Black quarter, Babesiosis"
+Bijnor,"Trypanosomiasis, Babesiosis"
+Meerut,"Theileriosis, Babesiosis, Foot and mouth disease"
+Hapur,"Theileriosis, Babesiosis"
+Paschim Medinipur,"Foot and mouth disease, Theileriosis, Black quarter, Haemorrhagic septicaemia, Babesiosis, Peste des petits ruminants"
+Yanam,"Fascioliasis, Babesiosis"
+Guntur,Babesiosis
+Barpeta,"Lumpy Skin Diseases, Black quarter, Haemorrhagic septicaemia, Babesiosis, Enterotoxaemia"
+Bongaigaon,"Lumpy Skin Diseases, Black quarter, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Darrang,"Enterotoxaemia, Babesiosis, Foot and mouth disease, Peste des petits ruminants"
+Dhubri,"Lumpy Skin Diseases, Black quarter, Babesiosis, Peste des petits ruminants"
+Kamrup,Babesiosis
+Kokrajhar,Babesiosis
+Nalbari,"Babesiosis, Peste des petits ruminants"
+Sonitpur,"Lumpy Skin Diseases, Classical Swine fever, Black quarter, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Tinsukia,"Theileriosis, Classical Swine fever, Babesiosis, Peste des petits ruminants"
+Baksa,"African Swine Fever, Black quarter, Babesiosis"
+Udalguri,Babesiosis
+South Salmara-Mankachar,"Lumpy Skin Diseases, Babesiosis, Peste des petits ruminants"
+Khagaria,"Trypanosomiasis, Babesiosis"
+Madhubani,Babesiosis
+North Goa,"Theileriosis, Babesiosis, Foot and mouth disease, Haemorrhagic septicaemia"
+South Goa,Babesiosis
+Bilaspur,"Babesiosis, Sheep & Goat pox, Peste des petits ruminants"
+Badgam,"Babesiosis, Sheep & Goat pox"
+Pulwama,"Babesiosis, Sheep & Goat pox"
+Kulgam,Babesiosis
+Bokaro,"Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Chatra,"Foot and mouth disease, Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis"
+Deoghar,"Lumpy Skin Diseases, Foot and mouth disease, Trypanosomiasis, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Dhanbad,"Lumpy Skin Diseases, Foot and mouth disease, Trypanosomiasis, Black quarter, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Dumka,"Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants"
+Garhwa,"Foot and mouth disease, Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis"
+Giridih,"Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Godda,"Lumpy Skin Diseases, Foot and mouth disease, Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis"
+Gumla,"Foot and mouth disease, Trypanosomiasis, Black quarter, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants"
+Hazaribagh,"Foot and mouth disease, Trypanosomiasis, Theileriosis, Black quarter, Fascioliasis, Babesiosis, Sheep & Goat pox, Peste des petits ruminants, Enterotoxaemia"
+Jamtara,"Lumpy Skin Diseases, Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Black quarter, Theileriosis, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Kodarma,"Lumpy Skin Diseases, Foot and mouth disease, Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Latehar,"Foot and mouth disease, Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis, Sheep & Goat pox, Enterotoxaemia"
+Lohardaga,"Lumpy Skin Diseases, Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis, Sheep & Goat pox, Peste des petits ruminants"
+Pakur,"Lumpy Skin Diseases, Classical Swine fever, Trypanosomiasis, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Palamu,"Lumpy Skin Diseases, Foot and mouth disease, Trypanosomiasis, Black quarter, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Pashchimi Singhbhum,"Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Sheep & Goat pox, Peste des petits ruminants, Enterotoxaemia"
+Purbi Singhbhum,"Lumpy Skin Diseases, Foot and mouth disease, Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis"
+Ranchi,"Lumpy Skin Diseases, Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Black quarter, Theileriosis, Fascioliasis, Babesiosis, Sheep & Goat pox, Peste des petits ruminants"
+Sahibganj,"Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Black quarter, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Sheep & Goat pox, Peste des petits ruminants, Enterotoxaemia"
+Saraikela-Kharsawan,"Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis, Sheep & Goat pox, Peste des petits ruminants"
+Simdega,"Classical Swine fever, Foot and mouth disease, Trypanosomiasis, Theileriosis, Fascioliasis, Babesiosis, Peste des petits ruminants"
+Khunti,"Lumpy Skin Diseases, Foot and mouth disease, Trypanosomiasis, Black quarter, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Sheep & Goat pox, Peste des petits ruminants"
+Ramgarh,"Foot and mouth disease, Trypanosomiasis, Theileriosis, Haemorrhagic septicaemia, Fascioliasis, Babesiosis, Peste des petits ruminants, Enterotoxaemia"
+Alappuzha,"Lumpy Skin Diseases, Foot and mouth disease, Theileriosis, Babesiosis, Peste des petits ruminants"
+Ernakulam,"Theileriosis, Babesiosis"
+Idukki,"Lumpy Skin Diseases, Theileriosis, Babesiosis"
+Kannur,"Lumpy Skin Diseases, Foot and mouth disease, Theileriosis, African Swine Fever, Babesiosis"
+Kasaragod,"Theileriosis, Classical Swine fever, Babesiosis, Peste des petits ruminants"
+Kollam,"Lumpy Skin Diseases, Theileriosis, Babesiosis, Haemorrhagic septicaemia"
+Kottayam,"Theileriosis, Babesiosis, Foot and mouth disease"
+Kozhikode,"Theileriosis, Babesiosis, Peste des petits ruminants"
+Malappuram,"Lumpy Skin Diseases, Theileriosis, Babesiosis, Haemorrhagic septicaemia"
+Pathanamthitta,"African Swine Fever, Theileriosis, Babesiosis"
+Thiruvananthapuram,"Lumpy Skin Diseases, Classical Swine fever, Theileriosis, Babesiosis, Peste des petits ruminants"
+Thrissur,"Lumpy Skin Diseases, African Swine Fever, Babesiosis, Haemorrhagic septicaemia"
+Wayanad,"Theileriosis, Babesiosis, Foot and mouth disease, Peste des petits ruminants"
+Tamenglong,Babesiosis
+Hanumangarh,Babesiosis
+Jaisalmer,"Black quarter, Babesiosis, Peste des petits ruminants"
+Sawai Madhopur,Babesiosis
+East District,"Classical Swine fever, Foot and mouth disease, Theileriosis, African Swine Fever, Babesiosis"
+West District,"Classical Swine fever, Babesiosis"
+West Tripura,"Classical Swine fever, Foot and mouth disease, Fascioliasis, Babesiosis, Sheep & Goat pox"
+Gomati,"Fascioliasis, Babesiosis"
+Khowai,"Classical Swine fever, Foot and mouth disease, Fascioliasis, Babesiosis, Sheep & Goat pox, Peste des petits ruminants"
+Sipahijala,"Foot and mouth disease, Black quarter, Haemorrhagic septicaemia, Babesiosis, Sheep & Goat pox"
+Agra,"Trypanosomiasis, Theileriosis, Babesiosis"
+Allahabad,"Trypanosomiasis, Theileriosis, Babesiosis"
+Baghpat,"Trypanosomiasis, Babesiosis"
+Bahraich,"Trypanosomiasis, Babesiosis"
+Ballia,"Trypanosomiasis, Theileriosis, Babesiosis"
+Banda,"Trypanosomiasis, Theileriosis, Babesiosis"
+Bareilly,"Trypanosomiasis, Theileriosis, Babesiosis"
+Chitrakoot,"Trypanosomiasis, Babesiosis"
+Deoria,Babesiosis
+Etah,"Trypanosomiasis, Theileriosis, Babesiosis"
+Fatehpur,"Trypanosomiasis, Theileriosis, Babesiosis"
+Gonda,"Trypanosomiasis, Theileriosis, Babesiosis"
+Gorakhpur,"Trypanosomiasis, Theileriosis, Babesiosis, Peste des petits ruminants"
+Hardoi,"Trypanosomiasis, Theileriosis, Babesiosis"
+Jalaun,"Trypanosomiasis, Babesiosis"
+Kanpur Nagar,"Trypanosomiasis, Theileriosis, Babesiosis"
+Kaushambi,"Trypanosomiasis, Theileriosis, Babesiosis"
+Kushinagar,"Trypanosomiasis, Theileriosis, Babesiosis"
+Mainpuri,"Trypanosomiasis, Babesiosis"
+Mathura,"Trypanosomiasis, Theileriosis, Babesiosis"
+Mirzapur,"Trypanosomiasis, Theileriosis, Babesiosis"
+Moradabad,"Trypanosomiasis, Theileriosis, Babesiosis"
+Muzaffarnagar,"Trypanosomiasis, Babesiosis"
+Pilibhit,"Trypanosomiasis, Theileriosis, Babesiosis"
+Saharanpur,"Trypanosomiasis, Theileriosis, Babesiosis"
+Sitapur,"Trypanosomiasis, Theileriosis, Babesiosis"
+Sonbhadra,"Trypanosomiasis, Babesiosis"
+Amroha,"Trypanosomiasis, Theileriosis, Babesiosis"
+Hathras,"Trypanosomiasis, Theileriosis, Babesiosis"
+Shamli,"Trypanosomiasis, Babesiosis"
+Birbhum,"Trypanosomiasis, Babesiosis, Peste des petits ruminants"
+Haora,"Theileriosis, Haemorrhagic septicaemia, Babesiosis, Sheep & Goat pox, Peste des petits ruminants"
+Koch Bihar,"Black quarter, Babesiosis"
+North Twenty Four Parg,"Theileriosis, Babesiosis"
+Dadra & Nagar Haveli,Babesiosis
+Karaikal,Babesiosis
+Puducherry,"Foot and mouth disease, Theileriosis, Haemorrhagic septicaemia, Babesiosis, Sheep & Goat pox, Peste des petits ruminants, Enterotoxaemia"
+Kurnool,"Bluetongue, Anthrax, Peste des petits ruminants"
+Sri Potti Sriramulu Ne,"Anthrax, Sheep & Goat pox, Peste des petits ruminants"
+Chitradurga,"Anthrax, Sheep & Goat pox, Haemorrhagic septicaemia, Peste des petits ruminants"
+Y.S.R.,"Anthrax, Enterotoxaemia, Peste des petits ruminants"
+Bellary,"Anthrax, Sheep & Goat pox, Peste des petits ruminants"
+Davanagere,"Lumpy Skin Diseases, Foot and mouth disease, Anthrax, Black quarter, Haemorrhagic septicaemia, Sheep & Goat pox, Peste des petits ruminants"
+Gulbarga,"Anthrax, Foot and mouth disease"
+Koppal,"Anthrax, Sheep & Goat pox, Peste des petits ruminants"
+Tumkur,"Foot and mouth disease, Anthrax, Haemorrhagic septicaemia, Sheep & Goat pox, Peste des petits ruminants, Enterotoxaemia"
+Dharmapuri,"Anthrax, Black quarter, Sheep & Goat pox"
+Dindigul,"Anthrax, Sheep & Goat pox"
+Namakkal,"Anthrax, African Swine Fever"
+Thoothukkudi,Anthrax
+Raipur,Foot and mouth disease
+Bidar,"Peste des petits ruminants, Foot and mouth disease, Sheep & Goat pox, Haemorrhagic septicaemia"
+Papum Pare,"African Swine Fever, Foot and mouth disease, Sheep & Goat pox"
+Dima Hasao,"Lumpy Skin Diseases, Classical Swine fever, Foot and mouth disease, Black quarter, Enterotoxaemia"
+Banas Kantha,"Black quarter, Foot and mouth disease"
+Gandhinagar,Foot and mouth disease
+Jamnagar,"Foot and mouth disease, Sheep & Goat pox"
+Kaithal,"Foot and mouth disease, Haemorrhagic septicaemia"
+Una,Foot and mouth disease
+Sirmaur,Foot and mouth disease
+Kangra,Foot and mouth disease
+Bangalore Rural,Foot and mouth disease
+Chamarajanagar,"Black quarter, Foot and mouth disease, Peste des petits ruminants"
+Chikmagalur,"Black quarter, Foot and mouth disease, Sheep & Goat pox, Peste des petits ruminants"
+Hassan,"Foot and mouth disease, Black quarter, Sheep & Goat pox, Peste des petits ruminants, Enterotoxaemia"
+Kolar,"Foot and mouth disease, Sheep & Goat pox, Peste des petits ruminants"
+Mandya,"Foot and mouth disease, Sheep & Goat pox, Peste des petits ruminants"
+Mysore,"Black quarter, Foot and mouth disease, Sheep & Goat pox"
+Uttara Kannada,"Black quarter, Foot and mouth disease, Peste des petits ruminants"
+Chikkaballapura,"Foot and mouth disease, Sheep & Goat pox, Peste des petits ruminants"
+Ramanagara,"Black quarter, Foot and mouth disease, Sheep & Goat pox, Peste des petits ruminants"
+Betul,Foot and mouth disease
+Ahmadnagar,"Foot and mouth disease, Theileriosis, Black quarter, Haemorrhagic septicaemia, Peste des petits ruminants"
+Nashik,"Foot and mouth disease, Theileriosis, Haemorrhagic septicaemia, Sheep & Goat pox, Peste des petits ruminants"
+East Khasi Hills,"Classical Swine fever, Foot and mouth disease"
+Ribhoi,Foot and mouth disease
+South West Garo Hills,"Classical Swine fever, Foot and mouth disease"
+Dhenkanal,Foot and mouth disease
+Mayurbhanj,"Foot and mouth disease, Peste des petits ruminants"
+Sundargarh,Foot and mouth disease
+Jaipur,"Foot and mouth disease, Trypanosomiasis, Theileriosis, Haemorrhagic septicaemia, Peste des petits ruminants"
+Salem,Foot and mouth disease
+Budaun,"Trypanosomiasis, Foot and mouth disease"
+Hugli,"Theileriosis, Black quarter, Foot and mouth disease"
+Purba Medinipur,"Theileriosis, Black quarter, Foot and mouth disease"
+North West,Foot and mouth disease
+Churachandpur,Fascioliasis
+Krishna,"Classical Swine fever, Fascioliasis, Peste des petits ruminants"
+Devbhumi Dwarka,"Trypanosomiasis, Fascioliasis"
+Bishnupur,Fascioliasis
+Imphal East,Fascioliasis
+Imphal West,"Classical Swine fever, Black quarter, Fascioliasis"
+Thoubal,"Black quarter, Fascioliasis, Sheep & Goat pox"
+Kangpokpi,Fascioliasis
+Banswara,Fascioliasis
+Dhalai,"Black quarter, Fascioliasis, Sheep & Goat pox"
+North Tripura,"Fascioliasis, Haemorrhagic septicaemia"
+South Andaman,Fascioliasis
+Nicobars,Fascioliasis
+North & Middle Andaman,Fascioliasis
+Dhemaji,"Lumpy Skin Diseases, Peste des petits ruminants"
+Muzaffarpur,Lumpy Skin Diseases
+Yadgir,"Lumpy Skin Diseases, Sheep & Goat pox, Peste des petits ruminants"
+Haveri,"Black quarter, Sheep & Goat pox, Peste des petits ruminants"
+Cachar,"Black quarter, Haemorrhagic septicaemia"
+Goalpara,Black quarter
+Golaghat,"Black quarter, Classical Swine fever"
+Jorhat,Black quarter
+Karimganj,Black quarter
+Nagaon,Black quarter
+Chirang,"African Swine Fever, Black quarter, Haemorrhagic septicaemia"
+Kamrup Metropolitan,"Black quarter, Haemorrhagic septicaemia"
+Sheikhpura,Black quarter
+Sonipat,Black quarter
+Shimla,Black quarter
+Shimoga,"Black quarter, Sheep & Goat pox"
+Solapur,Black quarter
+West Khasi Hills,Black quarter
+Ganjam,"Black quarter, Haemorrhagic septicaemia, Peste des petits ruminants"
+Kendujhar,Black quarter
+Cuddalore,"Black quarter, Peste des petits ruminants"
+Bankura,"Black quarter, Peste des petits ruminants"
+Jalpaiguri,Black quarter
+South Twenty Four Parg,Black quarter
+Daman,Black quarter
+Dakshina Kannada,"Haemorrhagic septicaemia, Peste des petits ruminants"
+Jind,"Theileriosis, Haemorrhagic septicaemia, Peste des petits ruminants"
+Indore,Haemorrhagic septicaemia
+Jabalpur,Haemorrhagic septicaemia
+Balangir,Haemorrhagic septicaemia
+Barddhaman,"Theileriosis, Haemorrhagic septicaemia, Peste des petits ruminants"
+Maldah,"Haemorrhagic septicaemia, Peste des petits ruminants"
+Bangalore,"Haemorrhagic septicaemia, Peste des petits ruminants"
+Raichur,"Sheep & Goat pox, Peste des petits ruminants"
+Udupi,Peste des petits ruminants
+Sivasagar,"Enterotoxaemia, Peste des petits ruminants"
+Amreli,Peste des petits ruminants
+Fatehabad,Peste des petits ruminants
+Hisar,"Theileriosis, Classical Swine fever, Enterotoxaemia, Peste des petits ruminants"
+Sirsa,Peste des petits ruminants
+Solan,Peste des petits ruminants
+Gadag,"Foot and mouth disease, Sheep & Goat pox, Peste des petits ruminants"
+Sidhi,Peste des petits ruminants
+Dhule,Peste des petits ruminants
+Nagpur,Peste des petits ruminants
+Nanded,Peste des petits ruminants
+Nandurbar,"African Swine Fever, Peste des petits ruminants"
+Sangli,"Theileriosis, Sheep & Goat pox, Peste des petits ruminants"
+Jagatsinghapur,Peste des petits ruminants
+Nayagarh,Peste des petits ruminants
+Baran,"African Swine Fever, Peste des petits ruminants"
+Jodhpur,"Enterotoxaemia, Peste des petits ruminants"
+Rudraprayag,"African Swine Fever, Peste des petits ruminants"
+Murshidabad,Peste des petits ruminants
+Puruliya,Peste des petits ruminants
+Kolasib,Classical Swine fever
+Vizianagaram,Classical Swine fever
+East Siang,Classical Swine fever
+Upper Subansiri,Classical Swine fever
+Patna,Classical Swine fever
+Charkhi dadri,Classical Swine fever
+Aizawl,"African Swine Fever, Classical Swine fever"
+Champhai,"African Swine Fever, Classical Swine fever"
+Lunglei,"African Swine Fever, Classical Swine fever, Foot and mouth disease"
+Jhalawar,Classical Swine fever
+North District,"African Swine Fever, Classical Swine fever"
+South District,"African Swine Fever, Classical Swine fever"
+Nalgonda,Sheep & Goat pox
+Bhavnagar,Sheep & Goat pox
+Anantnag,Sheep & Goat pox
+Baramula,Sheep & Goat pox
+Kupwara,Sheep & Goat pox
+Srinagar,Sheep & Goat pox
+Bandipore,Sheep & Goat pox
+Bagalkot,Sheep & Goat pox
+Dharwad,"Sheep & Goat pox, Peste des petits ruminants"
+Yavatmal,Sheep & Goat pox
+Senapati,Sheep & Goat pox
+Coimbatore,Sheep & Goat pox
+Tirunelveli,Sheep & Goat pox
+Virudhunagar,"African Swine Fever, Sheep & Goat pox"
+Tiruppur,Sheep & Goat pox
+South Tripura,Sheep & Goat pox
+Bhojpur,Trypanosomiasis
+Ambala,Trypanosomiasis
+Panipat,"Trypanosomiasis, Theileriosis"
+Aligarh,Trypanosomiasis
+Ambedkar Nagar,Trypanosomiasis
+Bulandshahr,"Trypanosomiasis, Theileriosis"
+Chandauli,Trypanosomiasis
+Lalitpur,Trypanosomiasis
+Lucknow,Trypanosomiasis
+Mahrajganj,"Trypanosomiasis, Theileriosis"
+Rae Bareli,"Trypanosomiasis, Theileriosis"
+Bhiwani,"Theileriosis, Enterotoxaemia"
+Palakkad,"Theileriosis, Foot and mouth disease"
+Kalahandi,Theileriosis
+Kendrapara,Theileriosis
+Nadia,Theileriosis
+Hailakandi,Enterotoxaemia
+Satara,Enterotoxaemia
+Chandel,Enterotoxaemia
+Sikar,Enterotoxaemia
+Udaipur,"African Swine Fever, Enterotoxaemia"
+Mamit,African Swine Fever
+Saiha,African Swine Fever
+Kiphire,African Swine Fever
+Phek,African Swine Fever
+Tuensang,African Swine Fever
+Uttar Dinajpur,Babesiosis
+West Garo Hills,"Bluetongue, Fascioliasis"
+Kullu,Foot and mouth disease
+Dimapur,Foot and mouth disease
+Hoshiarpur,Foot and mouth disease
+Tawang,Black quarter
+Chittoor,Peste des petits ruminants
+Kodagu,Peste des petits ruminants
+Barmer,Peste des petits ruminants
+Zunheboto,Classical Swine fever
+Muzaffarabad,Sheep & Goat pox
+Kolhapur,Sheep & Goat pox
+Shahjahanpur,Trypanosomiasis
+Kheri,Theileriosis
